@@ -4,3 +4,7 @@
 
 ## これなに
 Misskey、Discord等で使える絵文字です。
+
+## Discordサーバー(Nitroユーザー向け)
+- Deryck2000 Emoji Server 1</br>
+  https://discord.gg/Ep8a3EQ6Ya
